@@ -21,3 +21,6 @@ venv/
 
 #vscode
 .vscode/
+
+#attributes
+.gitattributes
