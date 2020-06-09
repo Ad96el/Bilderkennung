@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-PORT="8888"
+PORT="8889"
 CIDFILE=".docker_cid"
 username=$(whoami)
 
